@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "flow": "^0.2.3",
+    "jsdoc": "^4.0.4"
+  }
+}
